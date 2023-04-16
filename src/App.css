@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.app {
+  align-content: center;
+  background-color: dimgrey;
+  font-family: "Comic Sans MS", fantasy;
+  width: 60vw;
+  height: 62vh;
+  margin: 50px auto;
+  border: 3px solid black;
+  border-radius: 4px;
+  padding: 20px;
+}
